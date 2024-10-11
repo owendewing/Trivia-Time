@@ -13,10 +13,10 @@ The score is calculated based on
 - Firebase/Firestore: authentication & leaderboard
 - Trivia API: generating random trivia questions
 
-Future Feature Ideas
+### Future Feature Ideas
 - Longer trivia games
 - Collaborative features (battle modes, following your friends)
 - Category-specific games (sports, history, etc)
 
 ### Video Demo
-Since the codebase features sensitive information, I have decided to include a video demo instead to showcase the app's functionality.# Trivia-Time
+Since the codebase features sensitive information, I have decided to include a video demo instead to showcase the app's functionality.
